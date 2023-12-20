@@ -1,2 +1,2 @@
 print ("########## Inside Application ##########")
-print ("Building CI pipeline")
+print ("Building CI pipeline...")
